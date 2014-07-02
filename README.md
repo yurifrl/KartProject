@@ -1,4 +1,4 @@
-ProjectCart
+Kart Project
 ===========
 
-A cart maker engine
+A kart maker engine
